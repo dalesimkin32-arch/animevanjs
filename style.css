@@ -1,0 +1,25 @@
+#animation .text-xl {
+  font-size: 1.5rem;
+  color: currentColor;
+  letter-spacing: 0.06em;
+}
+
+.demo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.demo > div {
+  width: 50%;
+  height: 50%;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: xx-large;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 3px;
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
+    "animejs": "^4.2.2",
+    "node.js": "^0.0.1-security",
+    "tailwindcss": "^4.1.16"
+  },
+  "type": "module"
+}
